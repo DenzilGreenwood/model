@@ -1,0 +1,52 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2025 Cognitive Insight AI - Denzil James Greenwood
+All Rights Reserved.
+
+COMMERCIAL/PROPRIETARY LICENSE
+
+This software and associated documentation files (the "Software") are proprietary 
+to Cognitive Insight AI and are protected by copyright, trade secret, and other 
+intellectual property laws.
+
+GRANT OF LIMITED LICENSE:
+Subject to the terms and conditions of this license, Cognitive Insight AI hereby 
+grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+1. VIEW and EXAMINE the source code for evaluation and educational purposes only
+2. USE the documentation and examples for understanding CIAF capabilities
+3. REFERENCE this code in discussions about AI compliance and governance solutions
+
+RESTRICTIONS:
+You may NOT:
+- Copy, modify, distribute, or create derivative works of this Software
+- Use this Software for any commercial purpose without written permission
+- Reverse engineer, decompile, or disassemble the Software
+- Remove or alter any proprietary notices or labels
+- Transfer, sublicense, or assign your rights under this license
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+COGNITIVE INSIGHT AI BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ADDITIONAL DISCLAIMERS FOR DEMONSTRATION CODE:
+
+1. PROPRIETARY TECHNOLOGY: This repository demonstrates the capabilities of the 
+   CIAF (Cognitive Insight Audit Framework) package, which is proprietary 
+   technology owned by Cognitive Insight AI. The CIAF package itself is not 
+   included in this repository and is not available under this license.
+
+2. NON-FUNCTIONAL CODE: The code in this repository is for demonstration 
+   purposes only and will not execute without the proprietary CIAF package. 
+   It is intended to showcase potential implementations and capabilities.
+
+3. NO PRODUCTION USE: This code is not intended for production use and should 
+   not be deployed in any live environment without proper licensing of the 
+   CIAF framework and additional development.
+
+4. SYNTHETIC DATA: All data included in this repository is synthetically 
+   generated for demonstration purposes and does not represent real customer 
+   or financial information.

@@ -4,9 +4,18 @@
 
 This repository contains an example implementation showcasing the capabilities of the **CIAF (Cognitive Insight Audit Framework)** package through a credit approval use case. This is a demonstration of how CIAF can be used to build compliant, auditable AI systems with comprehensive metadata tracking and regulatory compliance features.
 
-## ⚠️ Important Notice
+## ⚠️ Important Notice & Disclaimer
 
 **This code is for demonstration purposes only and will not run as-is.** The CIAF package is not publicly available and requires specific licensing and setup. This repository serves as an example of what CIAF can accomplish in enterprise AI implementations.
+
+### 🚨 Key Disclaimers:
+
+- **Proprietary Technology**: CIAF is proprietary software owned by Cognitive Insight AI
+- **Non-Functional Demo**: Code will not execute without the licensed CIAF package
+- **Synthetic Data Only**: All data is artificially generated for demonstration
+- **Not Production Ready**: This code is not intended for production deployment
+- **Educational Purpose**: Designed to showcase AI compliance and governance capabilities
+- **Licensing Required**: Contact Cognitive Insight AI for actual CIAF licensing
 
 ## 📁 Repository Structure
 
@@ -85,6 +94,18 @@ The main implementation (`credit_approval_model.py`) shows how CIAF:
 For more information about CIAF and enterprise AI solutions:
 - **Email**: founder@cognitiveinsight.ai
 - **Organization**: Cognitive Insight AI
+
+## 📄 License
+
+This demonstration code is released under a **Proprietary Commercial License**. See the [LICENSE](LICENSE) file for complete terms.
+
+**Key Points**:
+- Code is viewable for evaluation and educational purposes
+- Commercial use requires written permission from Cognitive Insight AI
+- No modification or distribution rights granted
+- CIAF framework requires separate commercial licensing
+
+For commercial licensing inquiries, contact: founder@cognitiveinsight.ai
 
 ---
 
